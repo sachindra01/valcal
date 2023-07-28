@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812484251887",
+    "project_id": "test-182ae",
+    "storage_bucket": "test-182ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812484251887:android:051743458963a6b0e04b1a",
+        "android_client_info": {
+          "package_name": "com.app.mulyankan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812484251887-adaqtgl8oq1mb40i1fu0p3kc90r8orqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFR83S1017dX9Mh2Mhbkt9VWopTnnhlyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812484251887-adaqtgl8oq1mb40i1fu0p3kc90r8orqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
